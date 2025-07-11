@@ -1,4 +1,4 @@
-# 便宜VPN | 7月9日18.8M/S|免费V2ray/Clash/SSR/Shadowrocket节点推荐，V2ray梯子购买推荐  更新时间 2025-07-09 14:54:48
+# 便宜VPN | 7月11日21.3M/S|免费V2ray/SSR/Shadowrocket/Clash节点推荐，V2ray梯子购买推荐  更新时间 2025-07-11 08:20:06
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://pianyivpn.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://pianyivpn.github.io/uploads/2025/07/0-20250709.yaml
-- https://pianyivpn.github.io/uploads/2025/07/1-20250709.yaml
-- https://pianyivpn.github.io/uploads/2025/07/2-20250709.yaml
-- https://pianyivpn.github.io/uploads/2025/07/3-20250709.yaml
-- https://pianyivpn.github.io/uploads/2025/07/4-20250709.yaml
+- https://pianyivpn.github.io/uploads/2025/07/0-20250711.yaml
+- https://pianyivpn.github.io/uploads/2025/07/1-20250711.yaml
+- https://pianyivpn.github.io/uploads/2025/07/2-20250711.yaml
+- https://pianyivpn.github.io/uploads/2025/07/3-20250711.yaml
+- https://pianyivpn.github.io/uploads/2025/07/4-20250711.yaml
 
 ### V2ray订阅链接
 
-- https://pianyivpn.github.io/uploads/2025/07/0-20250709.txt
-- https://pianyivpn.github.io/uploads/2025/07/1-20250709.txt
-- https://pianyivpn.github.io/uploads/2025/07/2-20250709.txt
-- https://pianyivpn.github.io/uploads/2025/07/3-20250709.txt
-- https://pianyivpn.github.io/uploads/2025/07/4-20250709.txt
+- https://pianyivpn.github.io/uploads/2025/07/0-20250711.txt
+- https://pianyivpn.github.io/uploads/2025/07/1-20250711.txt
+- https://pianyivpn.github.io/uploads/2025/07/2-20250711.txt
+- https://pianyivpn.github.io/uploads/2025/07/3-20250711.txt
+- https://pianyivpn.github.io/uploads/2025/07/4-20250711.txt
 
 ### Sing-box订阅链接
 
-- https://pianyivpn.github.io/uploads/2025/07/20250709.json
+- https://pianyivpn.github.io/uploads/2025/07/20250711.json
 
 ## 更多clash节点订阅 ：
 
